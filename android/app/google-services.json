@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611835583401",
+    "project_id": "lelive-d34b9",
+    "storage_bucket": "lelive-d34b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611835583401:android:17038026b709e8f6f782b8",
+        "android_client_info": {
+          "package_name": "com.example.elive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6QZzDCaZaFoPWQ8YrhCTt7nkIP3jMb30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611835583401:android:16477a8812c432e0f782b8",
+        "android_client_info": {
+          "package_name": "com.example.elive_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6QZzDCaZaFoPWQ8YrhCTt7nkIP3jMb30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
